@@ -9,7 +9,7 @@ This `exed` is a variant of `exedump`, which omit file offset and ASCII characte
 
 ### Screenshot
 
-[cmd](https://pictr.com/images/2023/04/30/E4z2tX.png)
+![cmd](https://pictr.com/images/2023/04/30/E4z2tX.png)
 
 ### Usage
 
